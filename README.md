@@ -35,3 +35,5 @@ During development, I did encounter issues with the system. Connecting to the da
 https://pymongo.readthedocs.io/
 https://plotly.com/python/plotly-express/
 https://pymongo.readthedocs.io/
+7. Final notes
+Writing clean code comes with modular design. Encapsulating all logic is ciritical. Naming conventions, proper CRUD functionality, and error handling are all needed for the application to be functional. I can just update the CRUD module instead of making changes across a bunch of files. This code can be reused in the future for similar MongoDB collections.
